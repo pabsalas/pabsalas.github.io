@@ -1,0 +1,70 @@
+id,label,timeset,name,Changes
+12,YRE,,industry employment (employees+self-employed),1
+1,CR,,consumers' expenditures,4
+2,GR,,government current expenditure,1
+3,KR ,,investment by investing sector,5
+4,TRC,,product tax revenues consumers' expenditure,1
+5,QRX,,product exports,1
+6,QRM,,product imports,1
+7,YRN,,normal industry outputs at basic prices,10
+8,LRP,,"labour participation rate (LGR(1,J)/PAR(3,J))",1
+9,YRK,,cumulated gross investment,1
+10,PYE,,LPYE = ln(PYRE=prices of all energy inputs for each industry (local currency)),1
+0,RSC,,regional total consumers' expenditure,1
+13,YRH,,average hours worked per week in industry,1
+15,PYH,,prices of home sales by home producers (local currency),1
+16,YWE,,external industry real wage rates (same region),1
+17,YXE,,external regional real wage rates (same industry),1
+18,YRW,,average earnings by industry th. euros per person year,1
+19,YRUL,,industrial unit labour costs (lc/unit output),1
+20,PJR,,average (across uses) fuel prices (euros/toe) ex tax,1
+21,PCR,,prices of consumers' expenditures (local currency),1
+22,PGR,,prices of gov. cur. exp. (local currency),1
+23,PKR,,prices of investment by sector (local currency),1
+24,PQX,,PQX1 is  lagged PQEX=EU-external prices of export sales (local currency),1
+25,PQM,,PQM1= lagged PQEM=EU-external prices of imported products (local currency),1
+26,FR0,,"total fuel use for energy, in thousand toe",1
+27,FRC,,53 clas. con. financial assets to inc/exps,1
+28,FRO,,"FRO1 =  lagged heavy oil use for energy, in thousand toe (vocal O instead of zero 0)",1
+29,FRG,,"FRG1 =  lagged gas use for energy, in thousand toe",1
+30,FRE,,"FRE1 = lagged electricity use, in thousand toe",1
+31,FRJ,,FRJT = fuel use by fuel for region ISWR in thousand toe,1
+32,FR1,,"FR01 = actuals for coal FRCT=coal use for energy, in thousand toe",1
+33,H2GC,,Hydrogen capacity by H2 technology type (MW),1
+34,EMC,,EMCE = conversion of GHGs to CO2-equivalence (CO2=1),1
+35,FCPE,,"process emissions by fuel user, th tC",1
+36,EM,,"Several types, emissions (it seems)",1
+37,EDC,,EDCT = Targets DMC by materials and time for EU27 (for scenario file),1
+38,QR,,output of products at basic prices,1
+39,YR,,industry outputs at basic prices,1
+40,TAR,,??,1
+41,RRI,,regional residual income (RRPD*PRSC/EX)+RDTX+REES-RWS,1
+42,IR,,financial institutions financial surpluses,1
+43,RLR,,EU long-run interest rates (not %),1
+44,TR,,product tax revenues by type,1
+45,QRY,,products absorbed by industries,1
+46,QRC,,products purchased by consumers,1
+47,QRG,,products purchased by government,1
+48,QRK,,product flows to fixed investment,1
+49,YREM,,Male industry employment (employees+self-employed),1
+50,RDW,,regional investment in dwellings,1
+51,PVR,,price of investment by asset (local currency),1
+52,QWX,,BQWX = destination of exports - non-EU world area shares         QWXI = indicator of activity in non-EU export markets,1
+53,PQE,,EU prices ,1
+54,QZX,,QZXI = indicator of activity in EU regional export markets,1
+55,PQZ,,PQZA = calibrated PQRZ=indicator of competing prices for exports to EU regions,1
+56,PQY,,??,1
+57,PQF,,??,1
+58,SECE,,EU27 socio-economic group exp % total exp,1
+59,GINI,,RGIN = GINI coefficients,1
+60,FRB,,"FRB1 = lagged biofuel use for energy, in thousand toe",1
+61,MU,,Domestic Material Inputs,1
+62,MUX,,Material Exports,1
+63,MUF,,"Domestic Material Input of coal (MUF1), oil(MUF2) and gas(MUF3)",1
+64,MUR,,Total DMI by material user (Eurostat definition),1
+65,FTTTr,,FTT Transport,1
+66,FTT,,FTT Power,1
+67,ENERGYSUPPLY,,??,1
+68,PMF,,prices of import groups in $ (2005=1.000),1
+69,RVEH,,Private passenger vehicles sales (th-veh),1
+70,RVKM,,Private passenger transport demand (M veh-km/y),1
